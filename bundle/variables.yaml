@@ -1,0 +1,4 @@
+variables:
+- team: ikurtz-cloudbees-ci-casc
+- admin-user: ikurtz-admin
+- manager-user: ikurtz
